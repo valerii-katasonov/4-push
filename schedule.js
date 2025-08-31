@@ -20,7 +20,7 @@ const schedule = {
     { number: " ", subject: "Обід 5-6 класи", time: "12:40 - 13:00" },
     { number: 5, subject: "Plastyka", time: "13:00 - 13:45" },
     { number: " ", subject: "Перерва", time: "13:45 - 13:55" },
-    { number: 6, subject: "Природа", time: "13:55 - 14:40" }
+    { number: 6, subject: "Природа", time: "13:55 - 14:40" },
   ],
   "Середа": [
     { number: 1, subject: "Навчання грамоти", time: "9:00 - 9:45" },
