@@ -10,15 +10,17 @@ const schedule = {
     { number: 4, subject: "Англійська мова", time: "11:55 - 12:40" },
   ],
   "Вівторок": [
-    { number: 1, subject: "Навчання грамоти", time: "9:00 - 9:45" },
+    { number: 1, subject: "Українська мова", time: "9:00 - 9:45" },
     { number: " ", subject: "Перерва", time: "9:45 - 9:55" },
-    { number: 2, subject: "Навчання грамоти", time: "9:55 - 10:40" },
+    { number: 2, subject: "Математика", time: "9:55 - 10:40" },
     { number: " ", subject: "Перерва", time: "10:40 - 10:50" },
-    { number: 3, subject: "Математика", time: "10:50 - 11:35" },
+    { number: 3, subject: "Англійська мова", time: "10:50 - 11:35" },
     { number: " ", subject: "Обід 1-4 класи", time: "11:35 - 11:55" },
-    { number: 4, subject: "Przyroda", time: "11:55 - 12:40" },
+    { number: 4, subject: "Edukacja wczesnoszkolna", time: "11:55 - 12:40" },
     { number: " ", subject: "Обід 5-6 класи", time: "12:40 - 13:00" },
     { number: 5, subject: "Plastyka", time: "13:00 - 13:45" },
+    { number: " ", subject: "Перерва", time: "13:45 - 13:55" },
+    { number: 6, subject: "Природа", time: "13:55 - 14:40" }
   ],
   "Середа": [
     { number: 1, subject: "Навчання грамоти", time: "9:00 - 9:45" },
